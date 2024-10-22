@@ -1,3 +1,6 @@
+## Notes
+I'm still newbie to writing a blog :')
+
 ## Theme by :
 https://github.com/hanwenguo/hugo-theme-nostyleplease/
 
