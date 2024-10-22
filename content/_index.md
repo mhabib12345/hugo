@@ -13,7 +13,7 @@ Welcome to the personal page of Muhammad Habib Manan. This page highlights my ba
 
 ## About Me
 
-Hello! I am Muhammad Habib Manan, a passionate individual interested in **[insert interests, e.g., technology, art, etc.]**. I enjoy **[insert hobbies or activities]** and believe in **[insert personal philosophy or mission]**.
+Hello! I am Muhammad Habib Manan, a passionate individual interested in **[Mathematics and Linux Desktop]**. I enjoy **[insert hobbies or activities]** and believe in **[insert personal philosophy or mission]**.
 
 ---
 
